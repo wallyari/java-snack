@@ -13,6 +13,7 @@ package org.generation.italy;
  				array1.length > array2.length      	//condizione
  					? array1.length-array2.length 	//?valore1
  					: array2.length-array1.length;  //:valore2
+ 				
 
  		Random rand= new Random();
 
